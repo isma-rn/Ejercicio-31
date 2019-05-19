@@ -1,0 +1,7 @@
+C:\Users\Fam RN\source\Ejercicios C\E31_DeterminarComienzoSELECT\E31_DeterminarComienzoSELECT\bin\Debug\E31_DeterminarComienzoSELECT.exe.config
+C:\Users\Fam RN\source\Ejercicios C\E31_DeterminarComienzoSELECT\E31_DeterminarComienzoSELECT\bin\Debug\E31_DeterminarComienzoSELECT.exe
+C:\Users\Fam RN\source\Ejercicios C\E31_DeterminarComienzoSELECT\E31_DeterminarComienzoSELECT\bin\Debug\E31_DeterminarComienzoSELECT.pdb
+C:\Users\Fam RN\source\Ejercicios C\E31_DeterminarComienzoSELECT\E31_DeterminarComienzoSELECT\obj\Debug\E31_DeterminarComienzoSELECT.csprojAssemblyReference.cache
+C:\Users\Fam RN\source\Ejercicios C\E31_DeterminarComienzoSELECT\E31_DeterminarComienzoSELECT\obj\Debug\E31_DeterminarComienzoSELECT.csproj.CoreCompileInputs.cache
+C:\Users\Fam RN\source\Ejercicios C\E31_DeterminarComienzoSELECT\E31_DeterminarComienzoSELECT\obj\Debug\E31_DeterminarComienzoSELECT.exe
+C:\Users\Fam RN\source\Ejercicios C\E31_DeterminarComienzoSELECT\E31_DeterminarComienzoSELECT\obj\Debug\E31_DeterminarComienzoSELECT.pdb
