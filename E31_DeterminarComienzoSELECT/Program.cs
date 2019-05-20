@@ -12,13 +12,13 @@ namespace E31_DeterminarComienzoSELECT
         static void Main(string[] args)
         {
             bool salir = false;
-            string opcion;
+            string opcion, cadena;
             do
             {
                 Console.Clear();
                 Console.ForegroundColor = ConsoleColor.White;
                 Console.WriteLine("Ingrese la cadena:");
-                string cadena = Console.ReadLine();
+                cadena = Console.ReadLine();
 
                 if (cadena.Length>0)
                 {
